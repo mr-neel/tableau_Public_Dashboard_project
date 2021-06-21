@@ -45,7 +45,8 @@ The following points were the objective of the project .
 - Building and hosting a project on Git hub
 
 
-<img target="_blank" src="https://github.com/mr-neel/tableau Public _Dashboard_project/blob/master/Resource/powerbi.png" width=170>
+![powerbi](https://user-images.githubusercontent.com/71751175/122772005-96c75180-d2c4-11eb-8e4f-5414b0e53378.png)
+
 
 
 
